@@ -74,7 +74,7 @@ e texto do logo do site) **/
     todo o espaço horizontal do corpo da página. Para tanto, podemos
     definir o posicionamento partindo da esquerda para a metade do
     tamano do pai (50%) **/
-    left: 50%;
+    left: 15%;
 
     /** Como o posicionamento left considera o início do elemento
     (parte mais a esquerda do mesmo) o posicionamento ficará "torto",
@@ -95,8 +95,8 @@ que representa o logo do site**/
 #logoImg {
 
     /** Configura o tamanho do logo **/
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
 
     /** O comando float faz com que elementos que normalmente
     quebrariam linhas "flutuem" a esquerda ou a direita, nos
